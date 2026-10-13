@@ -58,3 +58,13 @@ pyinstaller --noconsole --onefile --name CaptureApp main.py
 | `mouse_watcher.py` | 전역 우클릭 감시 (플로팅 창 밖 우클릭 → 닫기) |
 | `keyboard_watcher.py` | 전역 Ctrl+V 감시 (붙여넣기 → 플로팅 닫기) |
 | `autostart.py` | Windows 시작 시 자동 실행 등록 |
+
+## 라이선스
+
+© 2026 모래속에사는고래 — **무료 사용 · 재배포 금지 · 유료화 금지**
+
+- 개인·업무 용도로 **자유롭게 사용**할 수 있습니다.
+- 원본 또는 수정본을 **재배포**(재업로드·재공유·2차 배포 등)하는 것을 금지합니다.
+- **유료 판매 등 상업적 이용**을 금지합니다.
+
+블로그: [계정과 코드](https://blog.naver.com/sandwhale688)
